@@ -1,0 +1,5 @@
+reto-tecnico-api
+
+En esta api (demoblaze) se encontró lo siguiente:
+- Los mensajes de respuesta no estan estandarizados, algunos devuelven formato json y otros un string
+- Los statuscode no estan estandarizados, todos devuelven 200 OK

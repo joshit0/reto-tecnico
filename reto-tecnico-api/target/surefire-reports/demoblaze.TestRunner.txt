@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: demoblaze.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.019 s <<< FAILURE! - in demoblaze.TestRunner
+testAll  Time elapsed: 0.019 s  <<< ERROR!
+java.lang.Error: 
+Unresolved compilation problem: 
+	The declared package "" does not match the expected package "demoblaze"
+
+	at demoblaze.TestRunner.<init>(TestRunner.java:1)
+

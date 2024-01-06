@@ -1,0 +1,17 @@
+demoblaze\tasks\LoginTask.class
+demoblaze\stepdefinitions\CartStepDefinition.class
+demoblaze\pages\LoginPage.class
+demoblaze\tasks\ProductDetailTask.class
+demoblaze\pages\CartPage.class
+demoblaze\stepdefinitions\MenuStepDefinition.class
+demoblaze\pages\ProductDetailPage.class
+demoblaze\tasks\ProductTask.class
+demoblaze\tasks\CartTask.class
+demoblaze\models\PricesModel.class
+demoblaze\runner\SerenityRunner.class
+demoblaze\stepdefinitions\ProductStepDefinition.class
+demoblaze\tasks\BaseTask.class
+demoblaze\pages\ProductPage.class
+demoblaze\stepdefinitions\LoginStepDefinition.class
+demoblaze\tasks\MenuTask.class
+demoblaze\pages\MenuPage.class
