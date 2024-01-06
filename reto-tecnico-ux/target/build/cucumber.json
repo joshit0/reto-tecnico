@@ -18,7 +18,7 @@
             "line": 11,
             "name": "abro pagina de demoblaze",
             "match": {
-              "location": "MenuStepDefinition.abro_pagina_de_login_de_herokuapp()"
+              "location": "MenuStepDefinition.abro_pagina_de_login_de_demoblaze()"
             },
             "keyword": "Dado "
           },
@@ -342,7 +342,7 @@
             "line": 38,
             "name": "abro pagina de demoblaze",
             "match": {
-              "location": "MenuStepDefinition.abro_pagina_de_login_de_herokuapp()"
+              "location": "MenuStepDefinition.abro_pagina_de_login_de_demoblaze()"
             },
             "keyword": "Dado "
           },

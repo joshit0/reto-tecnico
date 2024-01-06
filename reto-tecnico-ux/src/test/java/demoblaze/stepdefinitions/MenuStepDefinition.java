@@ -11,7 +11,7 @@ public class MenuStepDefinition {
 	MenuTask menuTask;
 
 	@Dado("^abro pagina de demoblaze$")
-	public void abro_pagina_de_login_de_herokuapp() {
+	public void abro_pagina_de_login_de_demoblaze() {
 		menuTask.AbrirUrl();
 		PricesModel.setPrecioTotal(0);
 	}

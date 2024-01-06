@@ -30,7 +30,7 @@ Para poder comprar productos
 
   @demoblaze @gherkin_imperativo
   Esquema del escenario: E2E Realizar pedido utilizando lenguaje gherkin imperativo [90m# src/test/java/demoblaze/features/login.feature:32[0m
-    [32mDado [0m[32mabro pagina de demoblaze[0m                                                   [90m# MenuStepDefinition.abro_pagina_de_login_de_herokuapp()[0m
+    [32mDado [0m[32mabro pagina de demoblaze[0m                                                   [90m# MenuStepDefinition.abro_pagina_de_login_de_demoblaze()[0m
     [32mCuando [0m[32mselecciono la categoria '[0m[32m[1mLaptops[0m[32m'[0m                                        [90m# ProductStepDefinition.selecciono_la_categoria(String)[0m
     [32mY [0m[32mselecciono el producto '[0m[32m[1mMacBook air[0m[32m'[0m                                          [90m# ProductStepDefinition.selecciono_el_producto(String)[0m
     [32mY [0m[32magrego el producto al carrito[0m                                                 [90m# ProductStepDefinition.agrego_el_producto_al_carrito()[0m
@@ -52,7 +52,7 @@ Para poder comprar productos
 
   @demoblaze @gherkin_declarativo
   Escenario: E2E Realizar pedido utilizando lenguaje gherkin declarativo [90m# src/test/java/demoblaze/features/login.feature:37[0m
-    [32mDado [0m[32mabro pagina de demoblaze[0m                                        [90m# MenuStepDefinition.abro_pagina_de_login_de_herokuapp()[0m
+    [32mDado [0m[32mabro pagina de demoblaze[0m                                        [90m# MenuStepDefinition.abro_pagina_de_login_de_demoblaze()[0m
     [32mY [0m[32magrego productos al carrito[0m                                        [90m# ProductStepDefinition.agrego_productos_al_carrito(String,String>>)[0m
     [32mY [0m[32mcompleto los datos para realizar pedido[0m                            [90m# CartStepDefinition.completo_los_datos_para_realizar_pedido(String,String>>)[0m
     [32mCuando [0m[32mdoy clic a purchase[0m                                           [90m# CartStepDefinition.DarClicAPurchase()[0m

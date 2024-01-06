@@ -148,7 +148,7 @@ formatter.step({
   "keyword": "Dado "
 });
 formatter.match({
-  "location": "MenuStepDefinition.abro_pagina_de_login_de_herokuapp()"
+  "location": "MenuStepDefinition.abro_pagina_de_login_de_demoblaze()"
 });
 formatter.result({
   "status": "passed"
@@ -351,7 +351,7 @@ formatter.step({
   "keyword": "Dado "
 });
 formatter.match({
-  "location": "MenuStepDefinition.abro_pagina_de_login_de_herokuapp()"
+  "location": "MenuStepDefinition.abro_pagina_de_login_de_demoblaze()"
 });
 formatter.result({
   "status": "passed"

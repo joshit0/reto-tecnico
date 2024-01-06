@@ -1,5 +1,5 @@
 <archetype>
-  <id>herokuapp-tecnico</id>
+  <id>reto-tecnico</id>
   <sources>
     <source>src/main/java/App.java</source>
   </sources>
